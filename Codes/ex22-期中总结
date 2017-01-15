@@ -1,0 +1,19 @@
+# -*- coding: utf-8 -*-
+
+# Exercise 22: What Do You Know So Far?
+# 到现在为止，你都学会了啥？
+# 简单的函数 -> 文件的读写 -> 屏幕输入输出 ->操作符和变量
+# Learn Python the Hard Way ---- 第二天
+# Date： 2017/01/05  11:49 am
+
+Exercise 18 - 21 
+函数的简单输出，参数  ->  函数返回值，计算
+
+Exercise 15 - 17
+文件的open read -> 从一个文件中复制到另一个文件
+
+Exercise 11 - 14
+raw_input()函数 可以多回头看看这些例子
+
+Exercise 1 - 10
+操作符，变量，还有大量的print 

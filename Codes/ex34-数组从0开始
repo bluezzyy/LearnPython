@@ -1,0 +1,16 @@
+# -*- coding: utf-8 -*-
+
+# Exercise 34: Accessing Elements of Lists
+# 获取列表中的数据
+# Learn Python the Hard Way ---- 第二天
+# Date： 2017/01/05  16:51
+
+animals = ['bear', 'python', 'peacock', 'kangaroo', 'whale', 'platypus']
+The animal at 1.
+The third (3rd) animal.
+The first (1st) animal.
+The animal at 3.
+The fifth (5th) animal.
+The animal at 2.
+The sixth (6th) animal.
+The animal at 4.
